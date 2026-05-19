@@ -1,0 +1,8 @@
+{
+  "name": "Dr.Sipper | Business Strategy & Blueprint",
+  "description": "A comprehensive, startup-to-enterprise structural business plan for Dr.Sipper, a modern beverage company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
